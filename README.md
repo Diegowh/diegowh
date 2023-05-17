@@ -9,7 +9,7 @@ diegowh = {
     "code": [Python, SQL, HTML, CSS, JavaScript, Swift],
     "tools": [Flask, Django, PostgreSQL, SQLAlchemy, SQLite, Numpy],
     "challenge": "I am doing the #100DaysOfCode challenge focused on react and typescript",
-    "software: [Git, GitHub, VSCode, XCode, Notion, Excel]
+    "software": [Git, GitHub, VSCode, XCode, Notion, Excel]
 }
 ```
 
