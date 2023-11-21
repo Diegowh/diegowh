@@ -3,8 +3,8 @@ Desarrollador de software apasionado con la tecnología y con unas enormes ganas
 
 Aquí puedes encontrar mis proyectos personales.
 
-Actualmente estoy trabajando en este proyecto:
-[WHGG](https://github.com/Diegowh/whgg)
+Actualmente estoy trabajando en este proyecto: [WHGG](https://github.com/Diegowh/whgg)
+
 Está en plena fase de desarrollo, se trata de un dashboard que brinda un servicio a los usuarios de League of Legends (un juego online multijugador) mostrando datos relevantes referentes a su búsqueda. Actualmente estoy trabajando en el backend, pero puedes echar un vistazo!
 Estoy utilizando Django junto como Django Rest Framework principalmente. La idea inicial es utilizar React para el frontend e incorporar algun servicio de terceros como S3 de AWS.
 
