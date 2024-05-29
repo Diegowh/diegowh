@@ -1,9 +1,12 @@
-## Hey there! 👋
+## Hey!
 
-I'm a software developer currently working on my personal project WHGG. It's a mobile app (for now) built with Flet and Django. It provides a service for players of an online multiplayer game, giving them access to their in-game profile statistics.
+I'm a software developer freelancing on a variety of projects and I'm always on the lookout for new challenges, jobs and collabs, so feel free to reach out!
 
-I'm responsible for the planning, development, and future deployment of the app. It's been a challenging and rewarding experience that has taught me how to design complex system using software architecture design patterns, get familiar with API development and management, as well as relational database design and maintenance.
+My tech stack includes:
+- **Languages:** Python, C#, Swift
+- **Frameworks and Libraries:** Django, FastAPI, Flask, Flet
+- **Tools:** Docker, AWS
 
-I am open to new challenges, projects and collabs. Do not hesitate to contact me!
+Currently, I'm diving into Rust and loving the experience, I'm always open to learning new technologies!
 
 My linkedin: https://www.linkedin.com/in/diegowh/
