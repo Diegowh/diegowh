@@ -1,4 +1,4 @@
-## Hey!
+## Hi!
 
 I'm a software developer freelancing on a variety of projects and I'm always on the lookout for new challenges, jobs and collabs, so feel free to reach out!
 
