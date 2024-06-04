@@ -8,5 +8,3 @@ My tech stack includes:
 - **Tools:** Docker, AWS
 
 Currently, I'm diving into Rust and loving the experience, I'm always open to learning new technologies!
-
-My linkedin: https://www.linkedin.com/in/diegowh/
