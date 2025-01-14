@@ -1,9 +1,11 @@
 ## Hi!
 
-I am a software developer who has been working on some projects you can see in my repositories. I'm always looking for new challenges or collabs, so feel free to reach out!
+I am Diego, a software developer from Spain. Always working on some project or learning something new!
+Stacks I have worked with: Django + Python, FastAPI, React + Typscript, Java, SwiftUI...
+I am currently experimenting with Spring, Go...
 
-My tech stack:
-- **Languages:** Python, Java, Typescript, C#, Swift
-- **Frameworks and Libraries:** Django, FastAPI, React, Flask, Flet
-- **Tools:** Docker, AWS
-- **Databases:** PostgreSQL, SQLite
+### ✨ Quick Facts
+- 👨🏽‍💻 I’m currently working as a freelancer.
+- 🎿 I’m currently learning Spring with Java.
+- 🌱 I’m looking for some open source projects to colab on.
+- 📫 How to reach me: contacto.diegowh@gmail.com
