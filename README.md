@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Diego, a software developer from Spain. Always working on some project or learning something new!
+I'm Diego, a software developer from Spain. I do enjoy learning or working on new projects!
 - 👨🏽‍💻 Currently working as a freelancer
 - 🎿 Learning Kotlin & Android Development.
 - 🌱 Looking for some open source projects to colab on.
